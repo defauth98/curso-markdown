@@ -100,23 +100,9 @@ Apartir do terceiro caractere em sequência cria uma linha horizontal. (Também 
 Exemplo:
 
 ```markdown
----
 
 ---
 
----
-
----
-
----
-
----
-
----
-
----
-
----
 ```
 
 ---
